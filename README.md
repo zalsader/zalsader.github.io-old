@@ -1,5 +1,5 @@
 # About
-[Other Website](https://cs.uwaterloo.ca/~zalsader/) . [Github page]({{site.github.owner_url}})
+[Other Website](https://cs.uwaterloo.ca/~zalsader/) . [Github page]({{site.github.owner_url}}) . [Resume](https://cs.uwaterloo.ca/~zalsader/Resume.pdf)
 
 # Education
 ## MMath of Computer Science
